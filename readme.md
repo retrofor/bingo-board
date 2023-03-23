@@ -2,6 +2,7 @@
 
 This is a game where people use Pull Request to submit numbers for [bingo](https://en.wikipedia.org/wiki/Bingo_(U.S.)). A Gamemaster will merge Pull Requests, and upon merge, the numbered file added to the repository becomes the next number called. 
 
+
 ## How it works
 
 ### As a Gamemaster
